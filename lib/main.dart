@@ -7,6 +7,7 @@ void main() {
     MaterialApp(
       title: "People Counter",
       home: MaxPage(),
+      debugShowCheckedModeBanner: false,
     ),
   );
 }
